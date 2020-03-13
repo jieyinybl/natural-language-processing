@@ -1,0 +1,19 @@
+pandas
+nltk
+seaborn
+scipy
+pandas
+scipy
+sklearn
+matplotlib
+numpy
+ipython
+jupyter
+catboost
+
+# Packages for package maintenance. Add them here so they get updated
+pip
+wheel
+requests
+setuptools
+pipdeptree
